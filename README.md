@@ -7,4 +7,8 @@
 ### how to keep yourself in grow thmindet ###
 + Reflect. Take time to acknowledge, reflect, and embrace all your failures. 
 + Find your purpose.
-+ Take on challenges
++ Take on challenge
+
+
+
+*dragonfly*
