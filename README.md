@@ -1,6 +1,9 @@
 # readingNotes :pencil2:
 
-### GrowthMidset ### :computer:
+
+My Name is Omar Obaid I'm 20 years old I study Software Eng second year in asac LTUC
+
+### GrowthMidset  :computer:
 
 #### A mindset represents a set of assumptions, methods or concepts held by one or more persons or groups of persons. Mindset can also be considered as arising from a person's world view or life philosophy. ####
 
