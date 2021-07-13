@@ -1,17 +1,9 @@
-# readingNotes :pencil2:
+# hello 
 
+My name is omar oabid i'm 20 years old i study software engenirng in asac ltuc and i take this course the code fellowes 
 
-My Name is Omar Obaid I'm 20 years old I study Software Eng second year in asac LTUC
-
-### GrowthMidset  :computer:
-
-#### A mindset represents a set of assumptions, methods or concepts held by one or more persons or groups of persons. Mindset can also be considered as arising from a person's world view or life philosophy. ####
-
-### how to keep yourself in grow thmindet ###
-+ Reflect. Take time to acknowledge, reflect, and embrace all your failures. 
-+ Find your purpose.
-+ Take on challenge
-
-
-
+name file | file link 
+----------|----------
+growth mindset | [growth mindset](https://omarobaid1.github.io/reading-notes/Growthmindset)
+read01    | [markdown&github](https://omarobaid1.github.io/reading-notes/read01)
 
