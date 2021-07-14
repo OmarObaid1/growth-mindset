@@ -8,4 +8,5 @@ growth mindset | [growth mindset](https://omarobaid1.github.io/reading-notes/Gro
 read01    | [markdown&github](read01.md)
 read02    | [git](https://omarobaid1.github.io/reading-notes/read02)
 read03    | [HTML](https://omarobaid1.github.io/reading-notes/read03)
+read04    | [java script](https://omarobaid1.github.io/reading-notes/read04)
 
